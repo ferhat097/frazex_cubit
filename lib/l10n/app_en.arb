@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+
+  "findphoto": "Find photos...",
+  "findpage": "Find",
+  "explorepage": "Explore",
+  "profilepage": "Profile",
+  "forfindwrite": "Write something for find",
+  "error": "Something went wrong",
+  "textempty": "Search text must not be empty"
+}

@@ -1,0 +1,12 @@
+{
+  "@@locale": "az",
+
+  "findphoto": "Şəkil axtar...",
+  "findpage": "Axtar",
+  "explorepage": "Kəşf et",
+  "profilepage": "Profil",
+  "forfindwrite": "Axtarmaq üçün yazın",
+  "error": "Xəta baş verdi",
+  "textempty": "Axtarış mətni boş ola bilməz"
+
+}

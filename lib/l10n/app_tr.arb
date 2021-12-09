@@ -1,0 +1,11 @@
+{
+  "@@locale": "tr",
+
+  "findphoto": "Fotoğraf ara...",
+  "findpage": "Ara",
+  "explorepage": "Keşf et",
+  "profilepage": "Ben",
+  "forfindwrite": "Aramak için yazın",
+  "error": "Hata oluştu",
+  "textempty": "Arama metni boş olmamalıdır"
+}
